@@ -33,36 +33,43 @@ You can access the live demo of the app here: **[Live Demo URL]**
    git clone https://github.com/SupunPrabodha/weather-app.git
    ```
 
-2.   Navigate to the project folder:
+2. **Navigate to the project folder**:
 
    ```bash
-   cd weather-app
+   cd Weather App
    ```   
-Open the index.html file in your browser:
+3. **Open the `index.html` file in your browser**:
 
-bash
-Copy code
-open index.html
-Alternatively, drag and drop index.html into your browser.
+   ```bash
+   open index.html
 
-🔑 API Key Configuration
-This app uses the OpenWeatherMap API. To make the app work with your own API key:
+Alternatively, drag and drop `index.html` into your browser.
 
-Visit OpenWeatherMap and sign up to get a free API key.
+---
 
-Replace the apiKey in index.html with your own key:
+##🔑 API Key Configuration
 
-javascript
-Copy code
+This app uses the **OpenWeatherMap API**. To make the app work with your own API key:
+
+Visit **OpenWeatherMap** and sign up to get a free API key.
+
+Replace the `apiKey` in `index.html` with your own key:
+```bash
 const apiKey = "YOUR_API_KEY_HERE";
-💡 How to Use
-Enter the city name into the input field.
-Click the search button or press Enter.
-View the current temperature, humidity, wind speed, and weather icon for the selected city.
-If the city name is incorrect, an error message will be displayed.
-📂 Project Structure
-lua
-Copy code
+```
+
+---
+
+## 💡 How to Use
+1. **Enter the city name into the input field.
+2. Click the **search button** or **press Enter**.
+3. View the current **temperature, humidity, wind speed,** and **weather icon** for the selected city.
+4. If the city name is incorrect, an error message will be displayed.
+
+---
+
+## 📂 Project Structure
+```bash
 weather-app/
 │-- index.html
 │-- style.css
@@ -76,10 +83,12 @@ weather-app/
 │   ├── humidity.png
 │   └── wind.png
 └-- README.md
-📝 License
-This project is licensed under the MIT License.
+```
 
-🙌 Acknowledgments
+---
+
+## 🙌 Acknowledgments
+
 OpenWeatherMap for providing the weather API.
 If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request!
 
