@@ -35,9 +35,9 @@ You can access the live demo of the app here: **[Live Demo URL]**
 
 2.   Navigate to the project folder:
 
-bash
-Copy code
-cd weather-app
+   ```bash
+   cd weather-app
+   ```   
 Open the index.html file in your browser:
 
 bash
