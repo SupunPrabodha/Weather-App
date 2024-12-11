@@ -1,18 +1,12 @@
 # 🌤️ Weather App
 
-This is a simple weather application built with HTML, CSS, and JavaScript that allows users to check the current weather conditions by entering a city name. It fetches real-time weather data from the [OpenWeatherMap API](https://openweathermap.org/api).
-
-## 🌐 Demo
-
-You can access the live demo of the app here: **[Live Demo URL]**
-
----
+This is a simple weather application built with **HTML, CSS, and JavaScript** that allows users to check the current weather conditions by entering a city name. It fetches real-time weather data from the [OpenWeatherMap API](https://openweathermap.org/api).
 
 ## 📸 Screenshots
 
 ### Main Interface
 
-![Weather App Screenshot](images/demo.png) <!-- Replace with actual screenshot path if available -->
+![image](https://github.com/user-attachments/assets/16533a94-cffc-4f47-b5dd-5f7c9c0359aa)
 
 ---
 
