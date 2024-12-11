@@ -31,3 +31,56 @@ You can access the live demo of the app here: **[Live Demo URL]**
 
    ```bash
    git clone https://github.com/SupunPrabodha/weather-app.git
+
+
+   Navigate to the project folder:
+
+bash
+Copy code
+cd weather-app
+Open the index.html file in your browser:
+
+bash
+Copy code
+open index.html
+Alternatively, drag and drop index.html into your browser.
+
+🔑 API Key Configuration
+This app uses the OpenWeatherMap API. To make the app work with your own API key:
+
+Visit OpenWeatherMap and sign up to get a free API key.
+
+Replace the apiKey in index.html with your own key:
+
+javascript
+Copy code
+const apiKey = "YOUR_API_KEY_HERE";
+💡 How to Use
+Enter the city name into the input field.
+Click the search button or press Enter.
+View the current temperature, humidity, wind speed, and weather icon for the selected city.
+If the city name is incorrect, an error message will be displayed.
+📂 Project Structure
+lua
+Copy code
+weather-app/
+│-- index.html
+│-- style.css
+│-- images/
+│   ├── search.png
+│   ├── clouds.png
+│   ├── clear.png
+│   ├── rain.png
+│   ├── drizzle.png
+│   ├── mist.png
+│   ├── humidity.png
+│   └── wind.png
+└-- README.md
+📝 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+OpenWeatherMap for providing the weather API.
+If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request!
+
+⭐ If you like this project, don't forget to star it! ⭐
