@@ -31,9 +31,9 @@ You can access the live demo of the app here: **[Live Demo URL]**
 
    ```bash
    git clone https://github.com/SupunPrabodha/weather-app.git
+   ```
 
-
-   Navigate to the project folder:
+2.   Navigate to the project folder:
 
 bash
 Copy code
