@@ -45,7 +45,7 @@ Alternatively, drag and drop `index.html` into your browser.
 
 This app uses the **OpenWeatherMap API**. To make the app work with your own API key:
 
-Visit **OpenWeatherMap** and sign up to get a free API key.
+Visit **OpenWeatherMap** and **sign up** to get a free API key.
 
 Replace the `apiKey` in `index.html` with your own key:
 ```bash
@@ -55,7 +55,7 @@ const apiKey = "YOUR_API_KEY_HERE";
 ---
 
 ## 💡 How to Use
-1. **Enter the city name into the input field.
+1. **Enter the city name into the input field.**
 2. Click the **search button** or **press Enter**.
 3. View the current **temperature, humidity, wind speed,** and **weather icon** for the selected city.
 4. If the city name is incorrect, an error message will be displayed.
