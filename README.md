@@ -55,7 +55,7 @@ const apiKey = "YOUR_API_KEY_HERE";
 ---
 
 ## 💡 How to Use
-1. **Enter the city name into the input field.**
+1. **Enter the city name** into the input field.
 2. Click the **search button** or **press Enter**.
 3. View the current **temperature, humidity, wind speed,** and **weather icon** for the selected city.
 4. If the city name is incorrect, an error message will be displayed.
