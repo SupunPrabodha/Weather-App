@@ -4,7 +4,7 @@ This is a simple weather application built with **HTML, CSS, and JavaScript** th
 
 ## 📸 Screenshots
 
-### Main Interface
+### **Main Interface**
 
 ![image](https://github.com/user-attachments/assets/cf1a2a17-826d-4d6e-9a5d-ed2ab276fc0d)
 
