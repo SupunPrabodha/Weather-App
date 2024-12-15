@@ -62,7 +62,7 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 ---
 
-## 📂 Project Structure
+## 📂 **Project Structure**
 ```bash
 weather-app/
 │-- index.html
