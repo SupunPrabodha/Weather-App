@@ -83,7 +83,7 @@ weather-app/
 
 ## 🙌 Acknowledgments
 
-OpenWeatherMap for providing the weather API.
+**OpenWeatherMap** for providing the weather **API**.
 If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request!
 
 ⭐ If you like this project, don't forget to star it! ⭐
